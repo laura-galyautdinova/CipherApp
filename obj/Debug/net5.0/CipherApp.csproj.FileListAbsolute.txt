@@ -1,0 +1,4 @@
+C:\Users\User\CipherApp\obj\Debug\net5.0\CipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\CipherApp\obj\Debug\net5.0\CipherApp.AssemblyInfoInputs.cache
+C:\Users\User\CipherApp\obj\Debug\net5.0\CipherApp.AssemblyInfo.cs
+C:\Users\User\CipherApp\obj\Debug\net5.0\CipherApp.csproj.CoreCompileInputs.cache
